@@ -1,0 +1,22 @@
+{
+  "wheel_id": 882,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-114",
+  "project": "fencing-contractors-toowoomba-before-you-start-a47dde30c4bf7e6f",
+  "parent_t1_ref": "fencingtoowoomba-156",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba before you start",
+  "intended_url": "http://fencing-contractors-toowoomba-before-you-start-a47dde30c4bf7e6f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "45a0b3b59949017a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-contractors-toowoomba-glossary-6efd119529727a8035178172/",
+      "anchor": "this fencing contractors toowoomba glossary guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
